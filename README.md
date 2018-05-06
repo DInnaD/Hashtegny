@@ -1,4 +1,4 @@
-!Dog&CatNeedHelp(https://github.com/DInnaD/iddogcat/blob/master/img/iddcicon.png)
+!Dog&CatNeedHelp(https://raw.githubusercontent.com/OmarElGabry/Hashtegny/gh-pages/img/iddcicon.png)
 
 
 ### Social Networks Supported
