@@ -1,5 +1,4 @@
-!Dog&CatNeedHelp(https://raw.githubusercontent.com/OmarElGabry/Hashtegny/gh-pages/img/iddcicon.png)
-
+!Dog&CatNeedHelp
 
 ### Social Networks Supported
 + Twitter
